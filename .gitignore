@@ -1,0 +1,26 @@
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output data files
+*.xlsx
+temp_*.xlsx
+
+# Log files
+*.log
+AttendanceScraper_Logs/
+
+# Environment
+.env
+venv/
+env/
+
+# Windows
+Thumbs.db
+Desktop.ini
