@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕐 Attendance Scraper
 
 A professional desktop application that **automatically collects attendance data** from a web portal for ~1338 employees and exports it to Excel. Built with Python and packaged as a standalone Windows `.exe` — no Python installation needed on target machines.
@@ -119,3 +120,7 @@ The exported Excel file contains these columns:
 ## 📜 License
 
 This project is licensed under the MIT License.
+=======
+# attendance-scraper
+Automated attendance data collector with GUI — Python, Selenium, Tkinter
+>>>>>>> a44e63744e722674b53e6167d3c832fdc055fa3c
